@@ -58,4 +58,4 @@ jupyter notebook riyadh-grocery-demand-forecast.ipynb
 
 ## SDAIA Academy
 
-- [SDAIA Academy on GitHub](https://github.com/SDAIA-Academy)
+- [SDAIA Academy on GitHub](https://github.com/SDAIAAcademy)
